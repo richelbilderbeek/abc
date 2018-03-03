@@ -1,0 +1,13 @@
+X:1
+T:You And Me
+C:Richel Bilderbeek
+L:1/4
+Q:1/4=144
+M:4/4
+K:A
+V:V1 clef=treble
+V:V2 clef=bass
+[V:V1] z3E | E3 F | GFEE | z3 F| GFEE |
+[V:V2] z4 | A,,E,A,z | z4 | B,,F,B,z | z4 |
+[V:V1] | z3 F | GFEE | z4 | z4 ||
+[V:V2] | C,G,Cz | z4 | B,,F,B,z | z4 ||

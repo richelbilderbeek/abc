@@ -52,5 +52,4 @@ V:V2 clef=bass
  * [abcnotation.com](http://www.abcnotation.com)
  * [ABC notation basics](http://www.abcnotation.com/blog/2010/01/31/how-to-understand-abc-the-basics)
  * [ABC notation FAQ](http://trillian.mit.edu/~jc/music/abc/ABC-FAQ.html)
- * [Draft of ABC notation 2.0](http://abc.sourceforge.net/standard/abc2-draft.html)
  * [ABC tune finder](http://trillian.mit.edu/~jc/cgi/abc/tunefind)
