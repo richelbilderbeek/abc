@@ -1,19 +1,15 @@
 # abc
 
-Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
----|---
-master|[![Build Status](https://travis-ci.org/richelbilderbeek/abc.svg?branch=master)](https://travis-ci.org/richelbilderbeek/abc)
-
 This is my ABC notation page, mostly for my own reference really...
 
 ## From an abc text file to something else
 
-What|Command|Output filenname
----|---|---
-Convert ABC to midi | `abc2midi filename.abc` | `filename1.mid`
-Convert ABC to postscript | `abcm2ps filename.abc` | `Out.ps`
-Play the Midi file | `playsound filename1.mid` | (none)
-Transpose ABC file  | `abc2abc filename.abc -t 1 > filename2.abc`  | filename2.abc
+What                      |Command                                      |Output filenname
+--------------------------|---------------------------------------------|------------------
+Convert ABC to midi       | `abc2midi filename.abc`                     | `filename1.mid`
+Convert ABC to postscript | `abcm2ps filename.abc`                      | `Out.ps`
+Play the Midi file        | `playsound filename1.mid`                   | (none)
+Transpose ABC file        | `abc2abc filename.abc -t 1 > filename2.abc` | filename2.abc
 
 ## My first song
 
